@@ -38,6 +38,7 @@ This repository contains solutions for the AccuKnox AI/ML assignment set, focusi
 python -m venv venv
 venv\Scripts\activate
 pip install -r requirements.txt
+
 ---
 
 ## 📄 Documentation
@@ -45,3 +46,5 @@ pip install -r requirements.txt
 Written responses for Assignment 1 and Assignment 2 are included in the repository as separate PDF files.
 
 Each script is self-contained and focuses on a specific task as outlined above.
+
+---
